@@ -1,8 +1,8 @@
-program AreaTriangulo;
+program Area;
 
 var
 
-base, altura, area; real;
+base, altura, area: real;
 
 begin
  writeln('Ingrese la base del triangulo');

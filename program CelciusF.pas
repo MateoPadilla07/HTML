@@ -1,4 +1,4 @@
-program CelciusF
+program CelciusF;
 
 var
   celsius, fahrenheit: real;
