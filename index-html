@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+      <meta charset="utf-8" />
+      <title>Curriculum Vitae de Bruce Wayne</title>
+    </head>
+    <body>
+
+      <h1>Datos Personales </h1>
+
+      <h2>°Nombre completo: Bruce Wayne</h2>
+      <h2>°Fecha de nacimiento: 1/5/1939</h2>
+      <h2>°Lugar de nacimiento: Gotham City</h2>
+
+      <h1>Formacion Academica</h1>
+
+      <h2>1956-1961: Universidad del Espantapajaros</h2>
+      <h2>1952-1975: Instituto de Dos Caras</h2>
+      <h2>1944-1952: Escuela primaria del Joker</h2>
+
+      <h1>Experiencia Laboral</h1>
+
+      <h1>1975-1985: En el paro</h1>
+      <h1>1965-1975: Cazavillanos y demas chusma</h1>
+      <h1>1962-1965: Aprendiz de Superheroe</h1>
+
+    </body>
+</html>
+        
+
+
+
+
